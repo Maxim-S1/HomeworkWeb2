@@ -1,0 +1,41 @@
+div {
+	color: blue;
+	font-size: 50px;
+	text-align: center;
+	align-content: center;
+	padding: 5%;
+	background: #FFFAF0;
+    width: 500;
+}
+
+
+h2 {
+	color: red;
+	font-size: 40px;
+	text-align: center;
+}
+
+
+p {
+	font-size: 20px;
+    text-align: center;
+}
+
+ul, ol {
+    text-align: center;
+    font-size: 30px;
+    list-style-position: inside;
+}
+
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* align-content: center; */
+}
+
+html {
+	font-family: 'Roboto', sans-serif;
+	background-color: #F5DEB3;
+}
+
